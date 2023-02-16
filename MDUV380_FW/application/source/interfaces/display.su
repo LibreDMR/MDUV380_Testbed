@@ -1,0 +1,9 @@
+../application/source/interfaces/display.c:41:6:nonOSDelay	8	static
+../application/source/interfaces/display.c:50:6:displayWriteCmd	0	static
+../application/source/interfaces/display.c:54:6:displayWriteData	0	static
+../application/source/interfaces/display.c:59:6:displayWriteCmds	16	static
+../application/source/interfaces/display.c:75:6:displaySetInvertedState	8	static
+../application/source/interfaces/display.c:83:6:displaySetToDefaultForegroundColour	0	static
+../application/source/interfaces/display.c:88:6:displayInit	80	static
+../application/source/interfaces/display.c:390:6:displayEnableBacklight	0	static
+../application/source/interfaces/display.c:402:6:displayIsBacklightLit	0	static

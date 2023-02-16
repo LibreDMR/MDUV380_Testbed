@@ -1,0 +1,2 @@
+../application/source/interfaces/gpio.c:40:6:gpioInitDisplay	8	static
+../application/source/interfaces/gpio.c:49:6:gpioSetDisplayBacklightIntensityPercentage	8	static

@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+OS=`uname -s`
+
+case "$OS" in
+    "Linux")
+	../tools/bin2fw.Linux $1 $2
+	;;
+    "Darwin")
+	../tools/bin2fw.Darwin $1 $2
+	;;
+    *)
+	;;
+esac

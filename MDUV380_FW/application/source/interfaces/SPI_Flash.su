@@ -1,0 +1,14 @@
+../application/source/interfaces/SPI_Flash.c:267:20:spi_flash_enable	0	static
+../application/source/interfaces/SPI_Flash.c:272:13:spi_flash_disable	0	static
+../application/source/interfaces/SPI_Flash.c:278:13:spi_flash_busy	16	static
+../application/source/interfaces/SPI_Flash.c:295:13:spi_flash_setWriteEnable.constprop	16	static
+../application/source/interfaces/SPI_Flash.c:97:6:SPI_Flash_read	24	static
+../application/source/interfaces/SPI_Flash.c:175:5:SPI_Flash_readStatusRegister	16	static
+../application/source/interfaces/SPI_Flash.c:195:5:SPI_Flash_readManufacturer	24	static
+../application/source/interfaces/SPI_Flash.c:207:10:SPI_Flash_readPartID	24	static
+../application/source/interfaces/SPI_Flash.c:74:6:SPI_Flash_init	8	static
+../application/source/interfaces/SPI_Flash.c:219:6:SPI_Flash_writePage	16	static
+../application/source/interfaces/SPI_Flash.c:244:6:SPI_Flash_eraseSector	16	static
+../application/source/interfaces/SPI_Flash.c:112:6:SPI_Flash_write	48	static
+../application/source/interfaces/SPI_Flash.c:304:5:SPI_Flash_readSecurityRegisters	56	static
+../application/source/interfaces/SPI_Flash.c:326:5:SPI_Flash_readSingleSecurityRegister	24	static

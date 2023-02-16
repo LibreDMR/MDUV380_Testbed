@@ -1,0 +1,4 @@
+../application/source/interfaces/usb_com.c:67:6:tick_com_request	0	static
+../application/source/interfaces/usb_com.c:71:6:USB_DEBUG_PRINT	8	static
+../application/source/interfaces/usb_com.c:79:6:USB_DEBUG_printf	2064	static
+../application/source/interfaces/usb_com.c:94:6:USB_DeviceIsResetting	0	static
